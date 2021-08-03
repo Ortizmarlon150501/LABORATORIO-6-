@@ -4,14 +4,13 @@
 
 # Objetivos Generales 
 
-• Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
+• Analizar el contenido teórico sobre el Teorema de la Máxima Transferencia de Potencia que asocia a distintos conocimientos ya conocido anteriormente y así poderlos aplicar dentro de los parámetros que no pide dicha practica.  
 
 # Objetivo Especifico
 
-• Comprender los conceptos básicos y los criterios de formulación de los cálculos para Teorema de Thévenin para así poder dar solución de un circuito mixtos.
+• Comprender los conceptos básicos y los criterios de formulación de los cálculos de Teorema de la Máxima Transferencia de Potencia para así poder dar solución de un circuito.
 
-•	Asociar el conocimiento de las leyes de Kirchhoff y el método de malla con el Teorema de Thévenin que ayudara a dar solución a el circuito de la práctica planteada.
-
+•	Verificar la relacion que existe entre la potencia con el voltaje la resistencia y  la intencidad detro de un circuito.
 
 # Marco Teorico
 
