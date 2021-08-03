@@ -20,7 +20,7 @@
 
 
 
-#Explicación del Prodcedimiento
+# Explicación del Prodcedimiento
 
 6. Procedimiento 
 6.5.1 Arme el circuito de que se muestra en la figura 
@@ -84,6 +84,22 @@ Resistencia    4700Ω
 
 
 ![image](https://user-images.githubusercontent.com/84412132/127947238-2ea5d93b-6fcf-4bc5-824d-9ab454513b43.png)
+
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+
+6.5.4. ¿Se cumple el Teorema de la Potencia Máxima Transferencia de Potencia? 
+
+
+
+6.5.5. ¿Cuál es la Potencia Máxima en RL?
+
+
+El valor de la potencia máxima en la RL es de P=0.04651 W
+
+6.5.6. ¿Para qué valor RL se obtiene MTP?
+
+Para el valor de la RL= 1000Ω
+
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
