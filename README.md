@@ -110,7 +110,7 @@ Para el valor de la RL= 1000Ω
 
 # Video
 
-https://youtu.be/L-ohAUv6b78
+https://youtu.be/RReFfOe9raE
 
 # Conclusiones
 
