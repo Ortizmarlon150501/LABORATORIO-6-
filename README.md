@@ -109,7 +109,8 @@ https://youtu.be/RReFfOe9raE
 
 # Conclusiones
 
-• Al aplicar el Teorema de Thévenin se debe recordar sobre las leyes de Kirchhoff y el método de malla, también sobre conceptos de resistencia en seri y en paralelo para poder dar solución a ejercicio de la práctica y asi poder sacar lo resultados que no piden.
+• Al aplicar el Teorema de máxima transferencia de potencia se debe tener en cuenta que se va a dar un relacione entre el voltaje la intensidad y resistencia para poder dar solución a ejercicio de la práctica y asi poder sacar lo resultados que nos piden en función de la potencia.
+
 
 
 # Biografia
