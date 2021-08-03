@@ -15,12 +15,8 @@
 
 # Marco Teorico
 
-![Uploading image.png…]()
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/84587118/128019906-fa4432cf-350c-4680-92be-4155ac6ee6ea.png)
 
 
 
