@@ -87,6 +87,8 @@ Resistencia    4700Ω
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![image](https://user-images.githubusercontent.com/84585835/128039914-d04b4e42-fedb-42a8-a29c-cac6d6d1ee9e.png)
+
 6.5.4. ¿Se cumple el Teorema de la Potencia Máxima Transferencia de Potencia? 
 
 
