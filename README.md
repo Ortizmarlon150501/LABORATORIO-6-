@@ -90,7 +90,7 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 6.5.4. ¿Se cumple el Teorema de la Potencia Máxima Transferencia de Potencia? 
 
-
+Si se cumple el teorema porque aplicar en este circuito se nota que su potencia se varía dependiendo de la resistencia RL y esta potencia puede disminuir o aumentar.
 
 6.5.5. ¿Cuál es la Potencia Máxima en RL?
 
