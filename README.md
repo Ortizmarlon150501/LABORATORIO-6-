@@ -103,12 +103,6 @@ El valor de la potencia máxima en la RL es de P=0.04651 W
 Para el valor de la RL= 1000Ω
 
 
-# RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-
-![image](https://user-images.githubusercontent.com/84585835/127177445-dd567f6f-1629-48ba-abda-060a6a95fda3.png)
-
-![image](https://user-images.githubusercontent.com/84585835/127178363-a56aad55-234d-4dc5-81ae-fa7b3c1483f0.png)
-
 
 # Video
 
