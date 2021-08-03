@@ -121,5 +121,6 @@ https://youtu.be/RReFfOe9raE
 
 # Biografia
 
+Intelligen, “Teorema de transferencia de potencia máxima.” https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/.
 
-
+E. Unicrom, “Teorema de máxima transferencia de potencia.” https://unicrom.com/teorema-de-maxima-transferencia-de-potencia/.
